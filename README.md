@@ -27,11 +27,15 @@ The Goal this project uses the random module in Python. The program will first r
 ## Before starting
 
 Install:
-`pip install -U unittest`
-`pip install -U nose`
+```
+sudo apt-get install python-pip
+sudo pip install -U nose
+```
 
 then:
-`pip install -U pylint`
+```
+sudo pip install -U pylint
+```
 
 ## Running tests
 
