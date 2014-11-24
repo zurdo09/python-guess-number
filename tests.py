@@ -1,4 +1,5 @@
 import nose
+import unittest
 from pylint import epylint as lint
 
 APPLICATION_DIR = 'application.py'

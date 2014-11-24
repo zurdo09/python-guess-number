@@ -27,6 +27,13 @@ The Goal this project uses the random module in Python. The program will first r
 ## Before starting
 
 Install:
+`pip install -U unittest`
 `pip install -U nose`
+
 then:
 `pip install -U pylint`
+
+## Running tests
+
+When inside the project directory, run `nosetests` in the terminal. Your code
+should work perfectly.
